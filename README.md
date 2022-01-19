@@ -7,6 +7,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazono1990" />
 </a>
 
+---
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kazono1990&theme=monokai)
+
 <!--
 **kazono1990/kazono1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
