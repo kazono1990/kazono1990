@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there, I'm kazono (@kazono1990)
+## Distributed Processing System Engineer and Engeneering Mananager. 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kazono1990&count_private=true&show_icons=true" />
